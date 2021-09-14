@@ -4,7 +4,7 @@ I am a programmer and researcher at the IBM/UNB Centre for Advanced Studies - At
 
 ##### Interests : C++, Java, Microservices, Software Engineering
 
-[![Alvee's github stats](https://github-readme-stats.vercel.app/api?username=alvee-unb&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Alvee's github stats](https://github-readme-stats.vercel.app/api?username=alvee-unb&count_private=true&hide=stars&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 Email To: <a href='mailto:alvee.n@unb.ca'>alvee.n@unb.ca</a>
 
