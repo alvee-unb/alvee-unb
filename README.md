@@ -1,8 +1,8 @@
 ### Hi there 👋 It's Alvee here!
 
-I am a programmer and researcher at the IBM/UNB Centre for Advanced Studies - Atlantic ([@CASAtlantic](https://github.com/CAS-Atlantic)). Currently, I am a graduate (MCS) student in computer science at the University of New Brunswick. My research topic includes SIMD support to Eclipse OpenJ9 for the AArch64 platform ([CAS Project ID - 1035](https://www-01.ibm.com/ibm/cas/canada/projects?projectId=1035)).
+I am a programmer and had been a researcher at the IBM/UNB Centre for Advanced Studies - Atlantic [CAS-Atlantic](https://github.com/CAS-Atlantic) during my master's in computer science at the University of New Brunswick. My research topic was SIMD support to Eclipse OpenJ9 for the AArch64 platform ([CAS Project ID - 1035](https://www-01.ibm.com/ibm/cas/canada/projects?projectId=1035)). Notable open-source projects that I contributed to include [Eclipse OMR](https://github.com/eclipse/omr) and [Eclipse OpenJ9](https://github.com/eclipse-openj9/openj9).
 
-##### Interests : C++, Java, Microservices, Software Engineering
+#### Interests : C++, Java, Microservices, Software Engineering
 
 [![Alvee's github stats](https://github-readme-stats.vercel.app/api?username=alvee-unb&count_private=true&hide=stars&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
