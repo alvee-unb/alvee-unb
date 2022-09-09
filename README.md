@@ -10,7 +10,7 @@ Email To: <a href='mailto:alvee.n@unb.ca'>alvee.n@unb.ca</a>
 
 [![Connect on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-alvee-noor)
 
-<a href="#"><img src="https://badges.pufler.dev/visits/alvee-unb/alvee-unb"></a>
+<a href="#"><img src="https://badges.pufler.dev/visits/alvee-unb"></a>
 
 
 
